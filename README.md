@@ -25,5 +25,5 @@ or
 python <script_name> --help
 ```
 
-##How it works
+## How it works
 AutoItSC.bin contains necessary 32-bit headers and components. By splicing out the code section of the a3x script that we wish to convert and appending it onto the end of AutoItSC.bin, we create a 32-bit version of the script.
